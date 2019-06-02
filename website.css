@@ -19,16 +19,16 @@ button{
 		align-items: center;
 
 	}
-	div{
+	#s1{
 		display: flex;
 		justify-content: center;
 		margin-top: 10px;
 	}
-	a{
+	#s2{
 		color: black;
 		text-decoration: none;
 	}
-	a:link{
+	#s2:link{
 		text-decoration: none;
 	}
 	.btn-primary{
@@ -38,6 +38,6 @@ button{
 	.btn-primary:hover{
 		background-color: pink;
 	}
-	a:hover{
+	#s2:hover{
 		color: red;
 	}
